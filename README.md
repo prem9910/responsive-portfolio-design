@@ -2,6 +2,8 @@
 
 Welcome to my portfolio website! I'm Prem Prakash, currently learning full-stack development and passionate about creating meaningful and innovative projects.
 
+![Alt text](image.png)
+
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
